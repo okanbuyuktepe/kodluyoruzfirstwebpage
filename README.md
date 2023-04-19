@@ -2,6 +2,9 @@
 
 This repo is created for [Kodluyoruz](https://kodluyoruz.org/) HTML Learning homework-1. It contains index.html, gitignore and README.md files.  
 
+## The Link
+https://okanbuyuktepe.github.io/kodluyoruzfirstwebpage/
+
 ## Installation
 Cloning the repo:
 ```bash
